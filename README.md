@@ -1,6 +1,29 @@
-- 👋 Hi, I’m @HakanKban
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/hakankban/)
+# Merhaba, ben Hakan Kaban.
+### Almakta olduğum Eğitimler
+- C#(NET 5.0 CORE) 
+- SQL SERVER Management Studıo
+- Entity Framework Core
+- Asp.NET Core MVC 
+- HTML
+- CSS
+- JAVASCRIPT
+- JQUERY
+### 📩 Ulaşabileceğiniz Adresler:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+
+<br />
+
+
+
+[linkedin]: https://www.linkedin.com/in/hakan-kaban-05552b222/
+[instagram]: https://www.instagram.com/hakankban/
+[gmail]: mailto:hkaban12@gmail.com
+<br />
+#
+
+
+
