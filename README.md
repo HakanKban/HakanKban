@@ -27,4 +27,6 @@
 ### Kullanmakta Olduğum Teknolojiler
 
 <img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/Csharp_Logo.png" width="auto">
+<img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/file_type_js_official_icon_130509.png" width="auto">
+
 
