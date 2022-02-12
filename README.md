@@ -24,6 +24,7 @@
 [gmail]: mailto:hkaban12@gmail.com
 <br />
 #
+### Kullanmakta Olduğum Teknolojiler
 
 
 
