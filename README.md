@@ -27,11 +27,11 @@
 ### Kullanmakta Olduğum Teknolojiler
 
 <img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/1024px-HTML5_logo_and_wordmark.svg.png" width="auto">
-<img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/1_-kLHasEkk2EK7aSQPlq8vA.png" width="auto">
+<img align="left" height="64" width="94" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/1_-kLHasEkk2EK7aSQPlq8vA.png" width="auto">
 <img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/CSS3_logo_and_wordmark.svg.png" width="auto">
 <img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/Csharp_Logo.png" width="auto">
 <img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/file_type_js_official_icon_130509.png" width="auto">
-<img align="left" height="66" width="86" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/images.png">
+<img align="left" height="66" width="96" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/images.png">
 <img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/indir.png">
 <img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/sqlserver.png">
 
