@@ -1,38 +1,22 @@
-# Merhaba, ben Hakan Kaban.
-### Almakta olduğum Eğitimler
-- C#(NET 5.0 CORE) 
-- SQL SERVER Management Studıo
-- Entity Framework Core
-- Asp.NET Core MVC 
-- HTML
-- CSS
-- JAVASCRIPT
-- JQUERY
-### 📩 Ulaşabileceğiniz Adresler:
+<h1 align="center">Hi 👋, I'm Hakan</h1>
+<h3 align="center">A passionate full-stack developer from Turkey</h3>
+<h4>
+:point_right:
+Although I am from a different engineering discipline, I have always had an interest in the software world. Since I felt that my interest in producing original things and solving problems would be fully rewarded in my software career, I directed my studies entirely to this field. According to this feeling, after completing my military service, I started to receive training on .NET in the Bilge Adam Boost Star Software Development Program. During this training process, I felt that the back-end field was more suitable for me and I focused on it. I want to continue in this field and learn new technologies to improve myself and do important work.
+</h4>
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+- 🔭 I’m currently working on [HumanResourcesManagement](https://github.com/BoostTeam2/HumanResourcesManagement)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/hakan-kaban-05552b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hakan-kaban-05552b222/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17765254/hakan-kaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17765254/hakan-kaban" height="30" width="40" /></a>
+<a href="www.instagram.com/hakankban/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hakankban/" height="30" width="40" /></a>
+<a href="https://medium.com/@hkaban12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@hkaban12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hkaban12/hackos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hkaban12/hackos" height="30" width="40" /></a>
+</p>
 
-<br />
-
-
-
-[linkedin]: https://www.linkedin.com/in/hakan-kaban-05552b222/
-[instagram]: https://www.instagram.com/hakankban/
-[gmail]: mailto:hkaban12@gmail.com
-<br />
-#
-### Kullanmakta Olduğum Teknolojiler
-
-<img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/1024px-HTML5_logo_and_wordmark.svg.png" width="auto">
-<img align="left" height="64" width="94" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/1_-kLHasEkk2EK7aSQPlq8vA.png" width="auto">
-<img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/CSS3_logo_and_wordmark.svg.png" width="auto">
-<img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/Csharp_Logo.png" width="auto">
-<img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/file_type_js_official_icon_130509.png" width="auto">
-<img align="left" height="66" width="96" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/images.png">
-<img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/indir.png">
-<img align="left" height="64" width="64" src="https://github.com/HakanKban/HakanKban/blob/main/ikonlar/sqlserver.png">
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
