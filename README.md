@@ -5,7 +5,6 @@
 Although I am from a different engineering discipline, I have always had an interest in the software world. Since I felt that my interest in producing original things and solving problems would be fully rewarded in my software career, I directed my studies entirely to this field. According to this feeling, after completing my military service, I started to receive training on .NET in the Bilge Adam Boost Star Software Development Program. During this training process, I felt that the back-end field was more suitable for me and I focused on it. I want to continue in this field and learn new technologies to improve myself and do important work.
 </h4>
 
-- 🔭 I’m currently working on [HumanResourcesManagement](https://github.com/BoostTeam2/HumanResourcesManagement)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
