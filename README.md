@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 <h4>
+ 
+ 
 :point_right:  I'm currently learning C# and JavaScript
 
-:point_right:  My main focus is C# and related backend technologies such as .NET and .NET Framework
+ 
+:point_right:  My main focus is C# and related backend technologies such as .NET and .NET Framework 
+ 
+
 </h4>
 
 
